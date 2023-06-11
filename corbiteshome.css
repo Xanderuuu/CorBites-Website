@@ -48,18 +48,12 @@ nav ul a:hover{
 	margin-right: auto;
 }
 
-body{
-	height: 100vh;
-	background: linear-gradient(
-		to bottom,
-		white 0%,
-		white 78%,
-		#D2B48C 78%,
-		#D2B48C 400%
-	)
-}
-
 .fb img{
 	width: 25px;
 	height: 25px;
+}
+
+.logo img {
+	max-width: 100%;
+	height: auto;
 }
